@@ -26,6 +26,8 @@ zw元字库团队，推出的各种模块库构架图，为国内众多AI初创�
 
 更多资料请参见公众号：
 
+<img width="285" alt="TQ-pub" src="https://user-images.githubusercontent.com/11691791/236592776-eccfce20-c021-4143-abda-4bf61422408b.png">
+
 《AGI与算力黑洞》
 
 《autoGPT与超智能体》
@@ -33,9 +35,6 @@ zw元字库团队，推出的各种模块库构架图，为国内众多AI初创�
 《全球首发最强开源中文GPT模型》
 
 《汉字chat-GPT与脸书sam万能分割模型》
-
-
-<img width="285" alt="TQ-pub" src="https://user-images.githubusercontent.com/11691791/236592776-eccfce20-c021-4143-abda-4bf61422408b.png">
 
 ![zw-AGI-03](https://user-images.githubusercontent.com/11691791/236592974-445bcc03-c5a2-4e25-b2e5-0fcb7fe48c8f.PNG)
 
