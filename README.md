@@ -24,8 +24,10 @@ zw元字库团队，推出的各种模块库构架图，为国内众多AI初创�
 更多资料请参见公众号：
 
 《autoGPT与超智能体》
+
 《全球首发最强开源中文GPT模型》
-《汉字chagpt 直秒 脸书sam万能分割模型》
+
+《汉字chat-GPT与脸书sam万能分割模型》
 
 
 <img width="285" alt="TQ-pub" src="https://user-images.githubusercontent.com/11691791/236592776-eccfce20-c021-4143-abda-4bf61422408b.png">
