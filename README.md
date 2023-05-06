@@ -18,6 +18,7 @@ zw元字库团队，推出的各种模块库构架图，为国内众多AI初创�
 ![autogpt_app](https://user-images.githubusercontent.com/11691791/236591588-3aaa6a6e-bbf5-42cd-84c3-a21f76e8f2a7.png)
 ![babyagi_babyagi](https://user-images.githubusercontent.com/11691791/236591602-629fc080-9620-4ad6-bbe8-f8467b4730d9.png)
 
+![zw-AGI-02](https://user-images.githubusercontent.com/11691791/236593251-1e2f32fd-e3e0-422b-8c27-fa92b83e200d.PNG)
 
 扫码可以直接注册，目前限时免费。
 
