@@ -15,7 +15,6 @@ zw元字库团队，推出的各种模块库构架图，为国内众多AI初创�
 ![autogpt_app](https://user-images.githubusercontent.com/11691791/236591588-3aaa6a6e-bbf5-42cd-84c3-a21f76e8f2a7.png)
 ![babyagi_babyagi](https://user-images.githubusercontent.com/11691791/236591602-629fc080-9620-4ad6-bbe8-f8467b4730d9.png)
 
-<img width="285" alt="TQ-pub" src="https://user-images.githubusercontent.com/11691791/236592804-6d1bb54e-c32f-40a1-a3de-f0b8a12c4c2e.png">
 
 扫码可以直接注册，目前限时免费。
 
@@ -34,4 +33,5 @@ zw元字库团队，推出的各种模块库构架图，为国内众多AI初创�
 
 <img width="285" alt="TQ-pub" src="https://user-images.githubusercontent.com/11691791/236592776-eccfce20-c021-4143-abda-4bf61422408b.png">
 
+![zw-AGI-03](https://user-images.githubusercontent.com/11691791/236592974-445bcc03-c5a2-4e25-b2e5-0fcb7fe48c8f.PNG)
 
