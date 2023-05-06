@@ -21,5 +21,8 @@ zw元字库团队，推出的各种模块库构架图，为国内众多AI初创�
 ![zw-AGI-04](https://user-images.githubusercontent.com/11691791/236592097-aa079dc9-835b-4486-b8a6-a0190aa7a215.PNG)
 
 更多资料请参见公众号：
+《autoGPT与超智能体》
+《全球首发最强开源中文GPT模型》
+《汉字chagpt 直秒 脸书sam万能分割模型》
 
 <img width="285" alt="TQ-pub" src="https://user-images.githubusercontent.com/11691791/236592613-bb2fd8b2-90ad-4cd9-b5d2-5601396b290b.png">
