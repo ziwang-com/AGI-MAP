@@ -15,14 +15,19 @@ zw元字库团队，推出的各种模块库构架图，为国内众多AI初创�
 ![autogpt_app](https://user-images.githubusercontent.com/11691791/236591588-3aaa6a6e-bbf5-42cd-84c3-a21f76e8f2a7.png)
 ![babyagi_babyagi](https://user-images.githubusercontent.com/11691791/236591602-629fc080-9620-4ad6-bbe8-f8467b4730d9.png)
 
+<img width="285" alt="TQ-pub" src="https://user-images.githubusercontent.com/11691791/236592804-6d1bb54e-c32f-40a1-a3de-f0b8a12c4c2e.png">
 
 扫码可以直接注册，目前限时免费。
 
 ![zw-AGI-04](https://user-images.githubusercontent.com/11691791/236592097-aa079dc9-835b-4486-b8a6-a0190aa7a215.PNG)
 
 更多资料请参见公众号：
+
 《autoGPT与超智能体》
 《全球首发最强开源中文GPT模型》
 《汉字chagpt 直秒 脸书sam万能分割模型》
 
-<img width="285" alt="TQ-pub" src="https://user-images.githubusercontent.com/11691791/236592613-bb2fd8b2-90ad-4cd9-b5d2-5601396b290b.png">
+
+<img width="285" alt="TQ-pub" src="https://user-images.githubusercontent.com/11691791/236592776-eccfce20-c021-4143-abda-4bf61422408b.png">
+
+
