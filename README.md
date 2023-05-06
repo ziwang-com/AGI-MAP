@@ -13,12 +13,12 @@ zw团队，利用自主开发的zwMAP：AIGC源码-架构图智能生成系统�
 俗话说：千言万语不如一张图。
 zw元字库团队，推出的各种模块库构架图，为国内众多AI初创企业，快速掌握各种AI模块库底层核心算法，提供了一个超级神器。
 ![autogpt_app](https://user-images.githubusercontent.com/11691791/236591588-3aaa6a6e-bbf5-42cd-84c3-a21f76e8f2a7.png)
-![babyagi_babyagi](https://user-images.githubusercontent.com/11691791/236591602-629fc080-9620-4ad6-bbe8-f8467b4730d9.png)!
+![babyagi_babyagi](https://user-images.githubusercontent.com/11691791/236591602-629fc080-9620-4ad6-bbe8-f8467b4730d9.png)
 
 
 扫码可以直接注册，目前限时免费。
 
-[zw-AGI-04](https://user-images.githubusercontent.com/11691791/236592097-aa079dc9-835b-4486-b8a6-a0190aa7a215.PNG)
+![zw-AGI-04](https://user-images.githubusercontent.com/11691791/236592097-aa079dc9-835b-4486-b8a6-a0190aa7a215.PNG)
 
 更多资料请参见公众号：
 
