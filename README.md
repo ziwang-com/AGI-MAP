@@ -1,6 +1,5 @@
 # AGI-MAP
 AGI模块库架构图
-![zw-AGI-01](https://user-images.githubusercontent.com/11691791/236593039-03e88e7d-a51a-4f1c-b873-58a0812af696.PNG)
 
 ![zw-AGI-01](https://user-images.githubusercontent.com/11691791/236593198-d802de6d-f830-4a6e-9639-26f52abf86f3.PNG)
 
