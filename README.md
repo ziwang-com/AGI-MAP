@@ -14,6 +14,12 @@ zw团队，利用自主开发的zwMAP：AIGC源码-架构图智能生成系统�
 
 俗话说：千言万语不如一张图。
 zw元字库团队，推出的各种模块库构架图，为国内众多AI初创企业，快速掌握各种AI模块库底层核心算法，提供了一个超级神器。
+模块架构图下载网址：
+https://github.com/ziwang-com/AGI-MAP
+
+本次发布的模块库主要为：AGI、GPT、AIGC领域，包括最核心，最常用的四十多组开源模块库，包括：
+
+alpaca_lora_4bit,auto_gptq,belle,chatglm-6b,chatrwkv,chinese_llama_alpaca_lora,chinese-llama-alpaca,chinese-vicuna,controlnet-v11,detgpt,dolly,fastchat,fay,gptcache,gptq-for-llama,jittorllms,langchain_visualizer,langflow,linly,lit-llama,llm_agents,llmfoundry,lmflow,marvin,open-assistant,pandasai,semantic_kernel,shap_e,starcoder,triton,wenda,whisper,rlhf_algorithm,rlhf_architext,rlhf_palm,RLHF_rrhf,rlhf_trlx
 
 ![autogpt_app](https://user-images.githubusercontent.com/11691791/236591588-3aaa6a6e-bbf5-42cd-84c3-a21f76e8f2a7.png)
 ![babyagi_babyagi](https://user-images.githubusercontent.com/11691791/236591602-629fc080-9620-4ad6-bbe8-f8467b4730d9.png)
