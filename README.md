@@ -2,6 +2,7 @@
 AGI模块库架构图
 
 【23-7-20】全球首发，llama2-map模块库架构图
+![llama2_generation](https://github.com/ziwang-com/AGI-MAP/assets/11691791/d1f17c09-e378-4d6b-9572-43ad0375493e)
 
 AGI被视为Next GPT，新一代GPT，代表GPT未来的一种发展方向。
 其中，目前最热门的是：autoGPT和babyAGI。
@@ -18,8 +19,6 @@ https://github.com/ziwang-com/AGI-MAP
 
 alpaca_lora_4bit,auto_gptq,belle,chatglm-6b,chatrwkv,chinese_llama_alpaca_lora,chinese-llama-alpaca,chinese-vicuna,controlnet-v11,detgpt,dolly,fastchat,fay,gptcache,gptq-for-llama,jittorllms,langchain,langchain_visualizer,langflow,linly,lit-llama,llm_agents,llmfoundry,lmflow,marvin,open-assistant,pandasai,semantic_kernel,shap_e,starcoder,triton,wenda,whisper,rlhf_algorithm,rlhf_architext,rlhf_palm,RLHF_rrhf,rlhf_trlx
 
-![autogpt_app](https://user-images.githubusercontent.com/11691791/236591588-3aaa6a6e-bbf5-42cd-84c3-a21f76e8f2a7.png)
-![babyagi_babyagi](https://user-images.githubusercontent.com/11691791/236591602-629fc080-9620-4ad6-bbe8-f8467b4730d9.png)
 
 ![zw-AGI-02](https://user-images.githubusercontent.com/11691791/236593251-1e2f32fd-e3e0-422b-8c27-fa92b83e200d.PNG)
 
