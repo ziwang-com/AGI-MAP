@@ -20,7 +20,7 @@ https://github.com/ziwang-com/AGI-MAP
 
 alpaca_lora_4bit,auto_gptq,belle,chatglm-6b,chatrwkv,chinese_llama_alpaca_lora,chinese-llama-alpaca,chinese-vicuna,controlnet-v11,detgpt,dolly,fastchat,fay,gptcache,gptq-for-llama,jittorllms,langchain,langchain_visualizer,langflow,linly,lit-llama,llm_agents,llmfoundry,lmflow,marvin,open-assistant,pandasai,semantic_kernel,shap_e,starcoder,triton,wenda,whisper,rlhf_algorithm,rlhf_architext,rlhf_palm,RLHF_rrhf,rlhf_trlx
 
-【智王AI资源库】
+# 【智王AI资源库】
 
 智王mini-AGI开源项目以及相关模块库，均在【智王AI资源库】提供免费下载。
 
