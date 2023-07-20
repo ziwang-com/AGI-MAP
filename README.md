@@ -1,10 +1,7 @@
 # AGI-MAP
 AGI模块库架构图
 
-![zw-AGI-01](https://user-images.githubusercontent.com/11691791/236593198-d802de6d-f830-4a6e-9639-26f52abf86f3.PNG)
-
-<img width="262" alt="autogpt_20230503232724" src="https://user-images.githubusercontent.com/11691791/236591404-11db1025-2bc8-46a4-a86e-32c867c10db1.png">
-<img width="548" alt="babyagi" src="https://user-images.githubusercontent.com/11691791/236591407-891f5582-9fc5-423f-9be2-827216350a9e.png">
+【23-7-20】全球首发，llama2-map模块库架构图
 
 AGI被视为Next GPT，新一代GPT，代表GPT未来的一种发展方向。
 其中，目前最热门的是：autoGPT和babyAGI。
