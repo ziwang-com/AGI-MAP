@@ -2,6 +2,7 @@
 AGI模块库架构图
 
 【23-7-20】全球首发，llama2-map模块库架构图
+ Global launch, llama2-map module library frame composition
 ![llama2_generation](https://github.com/ziwang-com/AGI-MAP/assets/11691791/d1f17c09-e378-4d6b-9572-43ad0375493e)
 
 AGI被视为Next GPT，新一代GPT，代表GPT未来的一种发展方向。
