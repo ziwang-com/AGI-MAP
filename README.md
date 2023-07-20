@@ -20,24 +20,20 @@ https://github.com/ziwang-com/AGI-MAP
 
 alpaca_lora_4bit,auto_gptq,belle,chatglm-6b,chatrwkv,chinese_llama_alpaca_lora,chinese-llama-alpaca,chinese-vicuna,controlnet-v11,detgpt,dolly,fastchat,fay,gptcache,gptq-for-llama,jittorllms,langchain,langchain_visualizer,langflow,linly,lit-llama,llm_agents,llmfoundry,lmflow,marvin,open-assistant,pandasai,semantic_kernel,shap_e,starcoder,triton,wenda,whisper,rlhf_algorithm,rlhf_architext,rlhf_palm,RLHF_rrhf,rlhf_trlx
 
+【智王AI资源库】
 
-![zw-AGI-02](https://user-images.githubusercontent.com/11691791/236593251-1e2f32fd-e3e0-422b-8c27-fa92b83e200d.PNG)
+智王mini-AGI开源项目以及相关模块库，均在【智王AI资源库】提供免费下载。
 
-扫码可以直接注册，目前限时免费。
+百度网盘提取码：hiks
 
-![zw-AGI-04](https://user-images.githubusercontent.com/11691791/236592097-aa079dc9-835b-4486-b8a6-a0190aa7a215.PNG)
+[https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks](https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks)
 
-更多资料请参见公众号：
+如有更改，最新下载地址请参见: 
 
-<img width="285" alt="TQ-pub" src="https://user-images.githubusercontent.com/11691791/236592776-eccfce20-c021-4143-abda-4bf61422408b.png">
+QQ群文件：655402626（GPT+千人QQ大群）
 
-《AGI与算力黑洞》
+更多细节，参见公众号。欢迎加入：QQ群，微信群。
 
-《autoGPT与超智能体》
 
-《全球首发最强开源中文GPT模型》
-
-《汉字chat-GPT与脸书sam万能分割模型》
-
-![zw-AGI-03](https://user-images.githubusercontent.com/11691791/236592974-445bcc03-c5a2-4e25-b2e5-0fcb7fe48c8f.PNG)
+![zw-GPT三合一+群二维码v2](https://github.com/ziwang-com/AGI-MAP/assets/11691791/433a84bc-0584-45ae-af53-0e231eeef41c)
 
